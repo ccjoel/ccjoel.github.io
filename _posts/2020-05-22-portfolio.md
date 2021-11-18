@@ -32,10 +32,10 @@ I have not tried these on OSX or safari.
 I was given barebones wireframes and asked to develop a pokedex using <https://pokeapi.co/>{:target="_blank"}.
 It was required to use `VueJs`. It was my first time using this library, but
 that wont stop me on delivering an organized and responsive browser app!
-Link to standalone [Pokedex here](https://teh0xqb.com:444){:target="_blank"}.
+Link to standalone [Pokedex here](https://pokedex-vuejs-teh0xqb-ou8v3.ondigitalocean.app){:target="_blank"}.
 
 <div class="demo-container">
-    <iframe class="demo" src="https://teh0xqb.com:444" title="Pokedex" width="100%"></iframe> 
+    <iframe class="demo" src="https://pokedex-vuejs-teh0xqb-ou8v3.ondigitalocean.app" title="Pokedex" width="100%"></iframe> 
 </div>
 
 <br />
@@ -75,7 +75,7 @@ Aggreages data and sums sales. I did not use `simplebar` like on the previous ex
 so the layout mileage may vary when using different OS/browser/window and size combinations.
 
 <div class="demo-container">
-    <iframe class="demo" src="https://teh0xqb.com/pivot-table" title="PivotTable" width="100%"></iframe>
+    <iframe class="demo" src="https://pivot-table-teh0xqb.herokuapp.com/" title="PivotTable" width="100%"></iframe>
 </div>
 
 <br />
@@ -90,7 +90,7 @@ definitely timeboxed, and I plan to update it (eg separate column
 dimension from data component) as time allows. You'll most likely notice that
 the OS scrollbar breaks the layout alignment.
 
-Run standalone application [here](https://teh0xqb.com/pivot-table){:target="_blank"}.
+Run standalone application [here](https://pivot-table-teh0xqb.herokuapp.com/){:target="_blank"}.
 
 ---
 
@@ -100,7 +100,7 @@ I built this in 2015, and did not use any framework or view library.
 Not even jQuery! Just javascript, `D3js`, and `webpack` in order to bundle the project.
 
 <div class="demo-container">
-    <iframe class="demo" src="https://teh0xqb.com/c-ring" title="OpsRing" width="100%"></iframe>
+    <iframe class="demo" src="https://c-ring-teh0xqb-qfi7z.ondigitalocean.app/" title="OpsRing" width="100%"></iframe>
 </div>
 
 <br />
@@ -111,7 +111,7 @@ Given a list of tokens that can range from 0 to *a very big number*, assign a no
 into the Cassandra ring view. Given that the `bigint` type was not yet introduced in `js`,
 I used a library that implemented big numbers.
 
-Run standalone application [here](https://teh0xqb.com/c-ring){:target="_blank"}.
+Run standalone application [here](https://c-ring-teh0xqb-qfi7z.ondigitalocean.app/){:target="_blank"}.
 See source code [here](https://github.com/teh0xqb/c-ring){:target="_blank"}.
 
 ---
@@ -121,7 +121,7 @@ See source code [here](https://github.com/teh0xqb/c-ring){:target="_blank"}.
 Includes the simplest validation mechanism with React using the HTML Constraint Validation API.
 
 <div class="demo-container">
-    <iframe class="demo" src="https://teh0xqb.com:446" title="Registration UI" width="100%"></iframe>
+    <iframe class="demo" src="https://availity-review-esd54.ondigitalocean.app/" title="Registration UI" width="100%"></iframe>
 </div>
 
 <br />
@@ -138,7 +138,7 @@ You'll notice that this time around I decided to provide positive reinforcement 
 forms are not red if they are bad, but green if they are A-Ok. This also utilizies
 `react-router-dom` for history-enabled navigation (think back button, url routing).
 
-Run standalone [here](https://teh0xqb.com:446){:target="_blank"}.
+Run standalone [here](https://availity-review-esd54.ondigitalocean.app/){:target="_blank"}.
 Source [here](https://github.com/teh0xqb/availity-review/blob/master/registration-ui/src/Register.js){:target="_blank"}.
 
 ---
@@ -159,12 +159,12 @@ The code is most likely not great. I was still a young Padawan.
 ### Meet the ClojureScript + Material-UI Demo App
 
 Utilizes `cljs-http` to use `core.async` channels for http calls. Uses 
-[material-ui](https://v4-9-14.material-ui.com/){:target="_blank"} components,
+[material-ui](https://v4.material-ui.com/){:target="_blank"} components,
 although this wasn't exactly necessary. I just wanted to try using npm libraries
 within the clojurescript ecosystem.
 
 <div class="demo-container">
-    <iframe class="demo" src="https://teh0xqb.com/trials" title="Trials cljs UI" width="100%"></iframe>
+    <iframe class="demo" src="" title="Trials cljs UI" width="100%"></iframe>
 </div>
 
 <br />
@@ -186,4 +186,4 @@ This post won't deep dive on how these statements are true, but there are some
 good blogs out there that already explain why the Clojure/Script combo 
 (and Reagent!) are incredible technologies. Google it!
 
-Run standalone [here](https://teh0xqb.com/trials){:target="_blank"}. Source [here](https://github.com/teh0xqb/re-trials){:target="_blank"}.
+Run standalone [here](){:target="_blank"}. Source [here](https://github.com/teh0xqb/re-trials){:target="_blank"}.
