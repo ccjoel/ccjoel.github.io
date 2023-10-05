@@ -80,7 +80,7 @@ so the layout mileage may vary when using different OS/browser/window and size c
 
 <br />
 
-#### Details 
+#### Details
 
 This was a tricky undertaking for just demo purposes. I believe it is the most
 complex demo anyone has requested of me. The main three components:
@@ -112,7 +112,7 @@ into the Cassandra ring view. Given that the `bigint` type was not yet introduce
 I used a library that implemented big numbers.
 
 Run standalone application [here](https://c-ring-teh0xqb-qfi7z.ondigitalocean.app/){:target="_blank"}.
-See source code [here](https://github.com/teh0xqb/c-ring){:target="_blank"}.
+See source code [here](https://github.com/ccjoel/c-ring){:target="_blank"}.
 
 ---
 
@@ -139,7 +139,7 @@ forms are not red if they are bad, but green if they are A-Ok. This also utilizi
 `react-router-dom` for history-enabled navigation (think back button, url routing).
 
 Run standalone [here](https://availity-review-esd54.ondigitalocean.app/){:target="_blank"}.
-Source [here](https://github.com/teh0xqb/availity-review/blob/master/registration-ui/src/Register.js){:target="_blank"}.
+Source [here](https://github.com/ccjoel/availity-review/blob/master/registration-ui/src/Register.js){:target="_blank"}.
 
 ---
 
@@ -186,4 +186,4 @@ This post won't deep dive on how these statements are true, but there are some
 good blogs out there that already explain why the Clojure/Script combo 
 (and Reagent!) are incredible technologies. Google it!
 
-Run standalone [here](){:target="_blank"}. Source [here](https://github.com/teh0xqb/re-trials){:target="_blank"}.
+Run standalone [here](){:target="_blank"}. Source [here](https://github.com/ccjoel/re-trials){:target="_blank"}.

@@ -2,14 +2,14 @@
 title: Joel - Building Software
 description: "Joel Quiles Software and Life Blog"
 baseurl: "" # the subpath of your site
-url: "http://teh0xqb.github.io"
+url: "https://ccjoel.github.io"
 
 # User settings
-username: teh0xqb
+username: ccjoel
 user_title: Joel - Building Software
 email: quilesbaker@gmail.com
-twitter_username: teh0xqb
-github_username:  teh0xqb
+twitter_username: radcoder
+github_username:  ccjoel
 disqus_username: joel_quiles
 
 # Build settings
@@ -42,8 +42,8 @@ projects:
   - name: Florida Business Inspections API
     url: https://github.com/Code-for-Miami/fbi-api
   - name: Mei - Codename for clojure game
-    url: https://github.com/teh0xqb/mei-game-clj
+    url: https://github.com/ccjoel/mei-game-clj
   - name: wine-finder
-    url: https://github.com/teh0xqb/wine-finder
+    url: https://github.com/ccjoel/wine-finder
 # exclude node related stuff
 exclude: ['package.json', 'src', 'node_modules']
